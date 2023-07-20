@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Benjamin D. Fedoruk
-- 👀 I’m interested in the application of theoretical computer science and pure mathematics in the field of logic. 
-- 🌱 I’m currently learning data science intensively in Python, and am also learning Java. 
-- 💞️ I’m looking to collaborate on any data science, computer science, mathematical, or logical research initiatives.
-- 📫 Reach me by phone at 807-630-5512, or by email to ben@benfedoruk.com
+- 👀 I’m interested in pure mathematics, specifically algebra and number theory. 
+- 🌱 I know the languages of Python, MATLAB, APL, and am trying to learn Haskell. 
+- 💞️ I’m looking to collaborate on any research initiatives, especially in mathematics
+- 📫 Reach me by phone at 807-630-5512, or by email to benjamin.fedoruk@ontariotechu.net
 
 <!---
 fedorukben/fedorukben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
